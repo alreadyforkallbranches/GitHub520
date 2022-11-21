@@ -24,23 +24,20 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-35.89.51.196                  favicons.githubusercontent.com
-35.162.88.15                  avatars4.githubusercontent.com
-35.91.202.3                   avatars0.githubusercontent.com
-52.88.18.132                  avatars.githubusercontent.com
+35.88.224.139                 avatars0.githubusercontent.com
+34.219.47.89                  avatars.githubusercontent.com
 140.82.114.3                  codeload.github.com
-72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-35.91.208.115                 media.githubusercontent.com
+35.88.224.139                 media.githubusercontent.com
 
 
-# Update time: 2022-11-22T04:21:23+08:00
+# Update time: 2022-11-22T06:20:40+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-22T04:21:23+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-22T06:20:40+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
